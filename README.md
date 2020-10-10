@@ -6,12 +6,14 @@ A Flashcards application thar allows you to create different Decks and cards. To
 
 `using npm` 
 npm install
+&nbsp;
 npm start
 
 or 
 
 `using yarn`
 yarn install
+&nbsp;
 yarn start
 
 ## Built With
