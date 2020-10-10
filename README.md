@@ -1,4 +1,4 @@
-# Udacity-Project-3 [React_Native]
+# Flashcards [React_Native]
 
 A Flashcards application thar allows you to create different Decks and cards. To quiz yourself daily.
 
